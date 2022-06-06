@@ -20,6 +20,8 @@ Arquivo B | Versão 1 | Versão 2
 ## Commits
 Informação de alteração
 	- após testado todo o seu código
+	- git add *
+	- git commit -m "leo"
 
 ## Gitflow
     fluxo do git
