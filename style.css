@@ -1,0 +1,62 @@
+body{
+  background-color: #FFB178;
+  width: 100%;
+}
+
+#container{
+  margin: 0 auto;
+  width: 20%;
+  background-color: #243441;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px black;
+}
+
+#container input{
+  width: 100%;
+  margin: 0 auto;
+  border: none;
+  background-color: #243441;
+}
+#container table{
+  margin: 0 auto;
+  width: 100%;
+  padding: 10px;
+
+}
+
+#container table td{
+  height: 80px;
+  width: 40px;
+  padding: 4px;
+}
+
+#display{
+  height: 100%;
+  text-align: right;
+  color: white;
+  font-size: 200%;
+}
+.btn{
+  width: 100%;
+  background-color: #243441;
+  border-radius: 15px;
+  height: 80%;
+  color: #76848F;
+  text-align: center;
+  font-size: 100%;
+  font-style: bold;
+  font-style: arial;
+  box-shadow: 1px 1px 5px #76848F;
+}
+
+.btn-eq{
+  background-color: #EC802E;
+  color: white;
+  font-size: 150%;
+}
+
+.botaoOP{
+  color: #EC802E;
+  font-size: 150%;
+
+}
